@@ -1,4 +1,4 @@
-- 👋 Salut moi c'est Romain Meyer, @RomainMyr, tout récemment diplômé en Maîtrise de Projet WEB. 
+- 👋 Salut moi c'est Romain Meyer, @RomainMyr, diplômé en Maîtrise de Projet WEB. 
 
 - 👀 La programmation m'attire depuis que j'ai découvert les possibilités qu'offraient avec un brin d'imagination nos ordinateurs. 
 Pouvoir agrémenter nos jeux de nouvelles missions, créer du contenu graphique pour changer l'environnement et l'expérience en jeu est très motivant et enrichissant. 
